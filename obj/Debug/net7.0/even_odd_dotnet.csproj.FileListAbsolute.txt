@@ -1,0 +1,15 @@
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.csproj.AssemblyReference.cache
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.AssemblyInfoInputs.cache
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.AssemblyInfo.cs
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\github\even_odd_dotnet\bin\Debug\net7.0\even_odd_dotnet.exe
+C:\Users\Elijah\Documents\github\even_odd_dotnet\bin\Debug\net7.0\even_odd_dotnet.deps.json
+C:\Users\Elijah\Documents\github\even_odd_dotnet\bin\Debug\net7.0\even_odd_dotnet.runtimeconfig.json
+C:\Users\Elijah\Documents\github\even_odd_dotnet\bin\Debug\net7.0\even_odd_dotnet.dll
+C:\Users\Elijah\Documents\github\even_odd_dotnet\bin\Debug\net7.0\even_odd_dotnet.pdb
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.dll
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\refint\even_odd_dotnet.dll
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.pdb
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\even_odd_dotnet.genruntimeconfig.cache
+C:\Users\Elijah\Documents\github\even_odd_dotnet\obj\Debug\net7.0\ref\even_odd_dotnet.dll
